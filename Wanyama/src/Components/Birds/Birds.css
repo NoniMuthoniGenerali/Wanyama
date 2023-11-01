@@ -1,0 +1,28 @@
+.bird-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px; 
+    text-align: center;
+    background-color: aqua;
+  }
+  
+  .bird-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .bird-container h1 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .bird-container a {
+    text-decoration: none;
+    color: #0077b6; 
+  }
+  
+  

@@ -1,11 +1,10 @@
 import React from 'react';
-
-
+import './Birds.css'
 
 function Birds(){
    return (
     
-       <div className="Name">
+       <div className="bird-container">
             <img src= "src/Components/Assets/Birds.jpeg" />
             <div className='overview'>
             <h1>Birds</h1>

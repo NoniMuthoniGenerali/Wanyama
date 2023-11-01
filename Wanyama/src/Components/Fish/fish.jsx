@@ -1,11 +1,11 @@
 import React from 'react';
-
+import './Fish.css'
 
 
 function Fish(){
    return (
     
-       <div className="Name">
+       <div className="fish-container">
             <img src= "src/Components/Assets/Fish.jpeg" />
             <div className='overview'>
             <h1>Fish</h1>

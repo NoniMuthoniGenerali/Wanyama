@@ -1,11 +1,11 @@
 import React from 'react';
-
+import './Mammals.css'
 
 
 function Mammals(){
    return (
     
-       <div className="Name">
+       <div className="mammals-container">
             <img src= "src/Components/Assets/mammals.jpeg" />
             <div className='overview'>
             <h1>Mammals</h1>
